@@ -1,2 +1,6 @@
-.xcconfig
+# Xcode
 .DS_Store
+*.xcodeproj
+xcuserdata/
+*.xcworkspace
+DerivedData/
