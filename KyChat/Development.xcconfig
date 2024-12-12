@@ -1,0 +1,11 @@
+//
+//  Development.xcconfig
+//  KyChat
+//
+//  Created by Rizky Azmi Swandy on 12/12/24.
+//
+
+BASE_URL = http:\/\/127.0.0.1:8000
+
+WS_HOST = 192.168.101.65
+WS_PORT = 8080
